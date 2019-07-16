@@ -17,4 +17,4 @@ Back End: Node.js and javascript
 
 Front End: Html5 , bootstrap, jquery, javascript, canvas, handlebars 
 
-Other libraries: Socket.io for freal time chat support.
+Other libraries: Socket.io for real time chat support.
