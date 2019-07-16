@@ -11,7 +11,7 @@ This is a real time chat application which allows students to avail online doubt
    Students can share their codes to TA and TA can take control of students 
    screen, and modify it.
 
-Technology used :
+**Technology used :
 
 Back End: Node.js and javascript
 
