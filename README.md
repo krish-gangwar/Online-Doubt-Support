@@ -2,7 +2,7 @@
 This is a real time chat application which allows students to avail online doubt support. This application consists of 3 main modules:
 
 1. Online chat:
-   Students can ask doubts from TA through chat.
+   Students can ask doubts from Teaching Assistant through chat.
 
 2. Whiteboard:
    With the help of white board teachers could explain algorithms and diagrams.
